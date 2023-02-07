@@ -1,0 +1,4 @@
+GIT:
+---
+1. Add git remote repo to local         :       git remote add origin "SSH Link"
+2. 
